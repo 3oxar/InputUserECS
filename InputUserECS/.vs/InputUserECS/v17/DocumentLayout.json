@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9484C02B-A850-208F-657B-C2239C7D2441}|Assembly-CSharp.csproj|D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\assets\\script\\system\\inputplayersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484C02B-A850-208F-657B-C2239C7D2441}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\inputplayersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484C02B-A850-208F-657B-C2239C7D2441}|Assembly-CSharp.csproj|d:\\skillbox\\middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 unity\\\u043E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 unity\\inputuserecs\\assets\\script\\system\\jerkdogsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484C02B-A850-208F-657B-C2239C7D2441}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\jerkdogsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484C02B-A850-208F-657B-C2239C7D2441}|Assembly-CSharp.csproj|D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\assets\\script\\component\\inputplayercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484C02B-A850-208F-657B-C2239C7D2441}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\component\\inputplayercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484C02B-A850-208F-657B-C2239C7D2441}|Assembly-CSharp.csproj|D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\assets\\script\\baker\\inputplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484C02B-A850-208F-657B-C2239C7D2441}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\baker\\inputplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484C02B-A850-208F-657B-C2239C7D2441}|Assembly-CSharp.csproj|D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\assets\\script\\system\\movedogsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484C02B-A850-208F-657B-C2239C7D2441}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\movedogsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484C02B-A850-208F-657B-C2239C7D2441}|Assembly-CSharp.csproj|D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\assets\\script\\component\\movedogcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484C02B-A850-208F-657B-C2239C7D2441}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\component\\movedogcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484C02B-A850-208F-657B-C2239C7D2441}|Assembly-CSharp.csproj|D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\assets\\script\\baker\\movedog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484C02B-A850-208F-657B-C2239C7D2441}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\baker\\movedog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JerkDogSystem.cs",
+              "DocumentMoniker": "D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\Assets\\Script\\System\\JerkDogSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\System\\JerkDogSystem.cs",
+              "ToolTip": "D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\Assets\\Script\\System\\JerkDogSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\System\\JerkDogSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:27:12.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputPlayerSystem.cs",
+              "DocumentMoniker": "D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\Assets\\Script\\System\\InputPlayerSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\System\\InputPlayerSystem.cs",
+              "ToolTip": "D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\Assets\\Script\\System\\InputPlayerSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\System\\InputPlayerSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:05:07.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputPlayerComponent.cs",
+              "DocumentMoniker": "D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\Assets\\Script\\Component\\InputPlayerComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Component\\InputPlayerComponent.cs",
+              "ToolTip": "D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\Assets\\Script\\Component\\InputPlayerComponent.cs",
+              "RelativeToolTip": "Assets\\Script\\Component\\InputPlayerComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:59:29.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputPlayer.cs",
+              "DocumentMoniker": "D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\Assets\\Script\\Baker\\InputPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Baker\\InputPlayer.cs",
+              "ToolTip": "D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\Assets\\Script\\Baker\\InputPlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\Baker\\InputPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:59:09.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoveDogSystem.cs",
+              "DocumentMoniker": "D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\Assets\\Script\\System\\MoveDogSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\System\\MoveDogSystem.cs",
+              "ToolTip": "D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\Assets\\Script\\System\\MoveDogSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\System\\MoveDogSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:31:40.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoveDogComponent.cs",
+              "DocumentMoniker": "D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\Assets\\Script\\Component\\MoveDogComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Component\\MoveDogComponent.cs",
+              "ToolTip": "D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\Assets\\Script\\Component\\MoveDogComponent.cs",
+              "RelativeToolTip": "Assets\\Script\\Component\\MoveDogComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:28:22.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoveDog.cs",
+              "DocumentMoniker": "D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\Assets\\Script\\Baker\\MoveDog.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Baker\\MoveDog.cs",
+              "ToolTip": "D:\\Skillbox\\Middle-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A \u0438\u0433\u0440 \u043D\u0430 Unity\\\u041E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u0432\u0432\u043E\u0434\u0430 \u0432 Unity\\InputUserECS\\Assets\\Script\\Baker\\MoveDog.cs",
+              "RelativeToolTip": "Assets\\Script\\Baker\\MoveDog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:28:22.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
