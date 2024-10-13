@@ -11,7 +11,10 @@ partial class InputPlayerSystem : SystemBase
     private InputAction _jerkAction;
 
     private float2 _moveInput;
+
     private float _jerkInput;
+    private float _jerkReload;
+   
 
     [RequiredMember]
     protected override void OnCreate()
@@ -41,7 +44,25 @@ partial class InputPlayerSystem : SystemBase
         foreach (var inputPlayer in SystemAPI.Query<RefRW<InputPlayerComponent>>())
         {
             inputPlayer.ValueRW.Move = _moveInput;
-            inputPlayer.ValueRW.Jerk = _jerkInput;
+
+            if (_jerkInput != 0 && _jerkReload == 0)//если нажата кнопка и время перезарядки рывка 0 секунд
+            {
+                inputPlayer.ValueRW.Jerk = _jerkInput;
+                _jerkReload = 2f;//устанавливаем время перезарядки рывка 
+            }
+            else if (_jerkInput == 0)
+            {
+                inputPlayer.ValueRW.Jerk = _jerkInput;
+            }
+
+            if (_jerkReload > 0)
+            {
+                _jerkReload -= SystemAPI.Time.DeltaTime;//отсчитываем время рывка 
+            }
+            else if (_jerkReload < 0)
+                _jerkReload = 0;
+
+
         }
     }
 

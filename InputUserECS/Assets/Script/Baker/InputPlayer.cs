@@ -17,7 +17,6 @@ class InputPlayerBaker : Baker<InputPlayer>
         { 
             Move = authoring.Move,
             Jerk = authoring.Jerk
-            
         });
     }
 }
